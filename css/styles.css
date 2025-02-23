@@ -474,10 +474,9 @@ img {
   /* display: flex;
   align-items: baseline;
 } */
-  .footer-info {
-    display: flex;
-    align-items: baseline;
-  }
+.footer-info {
+  display: flex;
+  align-items: baseline;
   margin-right: 120px;
 }
 .footer-container {
