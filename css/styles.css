@@ -471,9 +471,10 @@ img {
   color: #f4f4fd;
 } */
 .container {
-  /* display: flex;
+  display: flex;
   align-items: baseline;
-} */
+  margin-right: 120px;
+}
 .footer-info {
   display: flex;
   align-items: baseline;
