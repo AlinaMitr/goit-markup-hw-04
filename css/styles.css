@@ -218,7 +218,7 @@ img {
 }
 .services-list {
   display: flex;
-  align-items: center;
+
   gap: 24px;
 }
 .services-item {
@@ -467,9 +467,6 @@ img {
   color: #f4f4fd;
 }
 .container {
-  display: flex;
-  align-items: baseline;
-  margin-right: 120px;
 }
 .footer-container {
   display: inline-block;
