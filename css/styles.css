@@ -446,13 +446,19 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  display: flex;
+
   align-items: center;
   flex-direction: row;
 }
 .footer-link {
   margin-bottom: 16px;
   display: inline-block;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .footer-text {
   font-weight: 400;
@@ -462,27 +468,24 @@ img {
   color: #f4f4fd;
   width: 264px;
 }
-/* .footer-link .nav-studio {
+.footer-link .nav-studio {
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
-} */
-.container {
+}
+.footer-box {
   display: flex;
   align-items: baseline;
   margin-right: 120px;
 }
 .footer-info {
-  display: flex;
-  align-items: baseline;
   margin-right: 120px;
 }
 .footer-container {
   display: inline-block;
-  margin-left: 120px;
 }
 .footer-text-container {
   font-weight: 500;
